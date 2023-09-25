@@ -15,13 +15,13 @@ from streamlit_lottie import st_lottie
 # loading the saved models
 
 diabetes_model = pickle.load(open(
-    'C:/Users/Saketh/Desktop/Multi_Disease_Prediction/Diabetes/diabetes_model.sav', 'rb'))
+    './Multi_Disease_Prediction/Diabetes/diabetes_model.sav', 'rb'))
 
 heart_disease_model = pickle.load(open(
-    'C:/Users/Saketh/Desktop/Multi_Disease_Prediction/Heart/V1/heart_disease_model.sav', 'rb'))
+    './Multi_Disease_Prediction/Heart/V1/heart_disease_model.sav', 'rb'))
 
 parkinsons_model = pickle.load(open(
-    'C:/Users/Saketh/Desktop/Multi_Disease_Prediction/Parkinsons/parkinsons_model.sav', 'rb'))
+    './Multi_Disease_Prediction/Parkinsons/parkinsons_model.sav', 'rb'))
 
 
 # sidebar for navigation
