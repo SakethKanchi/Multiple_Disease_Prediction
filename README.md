@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SakethKanchi/Multiple_Disease_Prediction">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Multiple Disease Prediction Using Machine Learning Models</h3>
@@ -53,7 +53,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -134,4 +133,4 @@ Project Link: [https://github.com/SakethKanchi/Multiple_Disease_Prediction](http
 [license-url]: https://github.com/SakethKanchi/Multiple_Disease_Prediction/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/saketh-kanchi-375981221/
-[product-screenshot]: images/default.jpg
+[product-screenshot]: ./Images/default.jpg
